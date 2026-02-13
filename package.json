@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-checked-error",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "anikkhoma@gmail.com",
   "description": "ESLint rules for explicit error handling via return values",
   "repository": "https://github.com/Alster/eslint-plugin-checked-error",
